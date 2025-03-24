@@ -1,0 +1,16 @@
+# Core ML package
+transformers==4.44.0
+
+--index-url https://download.pytorch.org/whl/cu118
+torch==2.4.1
+torchvision==0.19.1
+
+
+# Common dependencies 
+pillow==11.0.0
+requests==2.32.3
+tqdm==4.67.1
+
+# Optional but commonly needed
+sympy==1.13.1
+Jinja2==3.1.4
