@@ -3,7 +3,6 @@
 
 
 <a href="https://arxiv.org/pdf/2407.17331"><img src="https://img.shields.io/badge/arXiv-2407.17331-b31b1b" alt="arXiv"></a>
-<a href='https://huggingface.co/spaces/DeepGlint-AI/MLCD-Seg-demo'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue'></a>
 <a href='https://huggingface.co/DeepGlint-AI/MLCD-Seg'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-green'></a>
 </div>
 
