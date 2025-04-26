@@ -7,6 +7,11 @@
 </div>
 
 
+
+
+
+## RefCOCO Segmentation Evaluation Results:
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multi-label-cluster-discrimination-for-visual/referring-expression-segmentation-on-refcocog)](https://paperswithcode.com/sota/referring-expression-segmentation-on-refcocog?p=multi-label-cluster-discrimination-for-visual)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multi-label-cluster-discrimination-for-visual/referring-expression-segmentation-on-refcoco-5)](https://paperswithcode.com/sota/referring-expression-segmentation-on-refcoco-5?p=multi-label-cluster-discrimination-for-visual)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multi-label-cluster-discrimination-for-visual/referring-expression-segmentation-on-refcoco-3)](https://paperswithcode.com/sota/referring-expression-segmentation-on-refcoco-3?p=multi-label-cluster-discrimination-for-visual)
@@ -19,9 +24,6 @@
 
 
 
-
-## RefCOCO Segmentation Evaluation Results:
-
 | Dataset     | Split   | MLCD-seg-7B | EVF-SAM | GLaMM | VisionLLM v2| LISA |
 | :--         | :-:     | :-:  | :-:  | :-:  | :-:  | :-:  |
 | RefCOCO     | val     | **83.6** | 82.4 | 79.5 | 79.2 | 74.9 |
@@ -32,6 +34,13 @@
 | RefCOCO+    | testB   | **75.6** | 71.9 | 64.6 | 61.8 | 58.1 |
 | RefCOCOg    | val     | **79.7** | 78.2 | 74.2 | 73.3 | 67.9 |
 | RefCOCOg    | test    | **80.5** | 78.3 | 74.9 | 74.8 | 70.6 |
+
+## Example:
+
+![output](https://github.com/user-attachments/assets/85c023a1-3e0c-4ea5-a764-1eb9ee0fbddf)
+
+
+## How to use:
 
 If you just want to use this code, please refer to this sample below
 ```python
