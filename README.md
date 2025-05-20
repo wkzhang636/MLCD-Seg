@@ -91,7 +91,7 @@ subprocess.run(cmd)
 
 # model path
 
-model_path = "/root/MLCD-Seg/" # or use your local path
+model_path = "/DeepGlint-AI/MLCD-Seg/" # or use your local path
 mlcd_seg = AutoModel.from_pretrained(
     model_path,
     torch_dtype=torch.float16,
