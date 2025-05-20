@@ -8,8 +8,6 @@
 
 
 
-
-
 ## RefCOCO Segmentation Evaluation Results:
 <div align="left">
 
@@ -41,7 +39,7 @@
 
 <img src="https://github.com/user-attachments/assets/85c023a1-3e0c-4ea5-a764-1eb9ee0fbddf" alt="output" width="1024"/>  
 <img src="https://github.com/user-attachments/assets/5b767327-bd0a-4185-8f7e-b1ab0aa260c9" alt="output" width="1024"/>
-<img src="updownfunk_mask.gif" alt="output" width="1024"/>  
+<video src="https://github.com/user-attachments/assets/380dee0d-47c4-4e01-8ff0-e69e62cccd7c" alt="output" width="1024"></video>
 
 ## How to use:
 
